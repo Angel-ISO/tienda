@@ -1,1 +1,1 @@
-# tienda
+## conexion con base de datos con migraciones en c# + pruebas iniciales
